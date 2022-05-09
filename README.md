@@ -1,7 +1,7 @@
 # TMSQAP05-Diploma
 Diploma project for AQA python course
 
-###Checklist for
+### Checklist for
 
 ---------------------
 
@@ -62,5 +62,5 @@ or
 -m fields
 
 ----------------------------------------
-###Stack
+### Stack
 Python,Selenium,Pytest,Allure
