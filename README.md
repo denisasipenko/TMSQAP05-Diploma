@@ -8,7 +8,7 @@ Diploma project for AQA python course
 ### **Login**
 - Login page fields
 - Login
-- Checking the login on ready-made
+- Checking the login on ready-made data
 - Login verification for new random data
 
 ### **Registration**
@@ -36,7 +36,7 @@ Diploma project for AQA python course
 - Adding a product from the Product list page
 - Checking the order and login on new data
 
-Install all requirements:
+Installing all requirements:
 
     pip install -r requirements
     
